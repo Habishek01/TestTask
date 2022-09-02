@@ -1,0 +1,20 @@
+.firstContainer {
+  background-color: rgba(233, 237, 245, 1);
+  width: 90%;
+  height: 946px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 5%;
+  border-radius: 8px;
+  padding-top: 8%;
+}
+.secondContainer {
+  background-color: white;
+  width: 90%;
+  height: 84%;
+  margin-left: 5%;
+}
+.innerContainer {
+  width: 34%;
+  margin-left: 33%;
+}

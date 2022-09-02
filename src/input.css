@@ -1,0 +1,67 @@
+.input {
+  margin-top: 15%;
+}
+.placeHolder {
+  width: 90%;
+  margin-bottom: 3%;
+  height: 43px;
+  border: 0.5px solid rgba(233, 237, 245, 1);
+  border-radius: 5px;
+  padding-left: 10px;
+}
+::placeholder {
+  color: rgb(179, 188, 194);
+}
+.inputName {
+  font-size: 12px;
+  font-weight: 600;
+  text-align: initial;
+  margin-bottom: 3%;
+  margin-left: 10px;
+  color: dimgray;
+}
+/* input2 */
+.placeHolerInput {
+  display: flex;
+}
+.websiteButton {
+  width: 40%;
+  height: 45px;
+  background-color: rgb(242, 242, 245);
+  color: lightgray;
+  border: 0.5px solid rgba(233, 237, 245, 1);
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.example {
+  width: 50%;
+  height: 43px;
+  border: 0.5px solid rgba(233, 237, 245, 1);
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding-left: 10px;
+}
+/* input3 */
+.inputButton {
+  max-width: 160px;
+  background-color: white;
+  border: 0.5px solid rgba(233, 237, 245, 1);
+  text-align: start;
+  margin-right: 20px;
+  padding: 20px;
+  border-color: #664de5;
+  border-radius: 5px;
+}
+.inputButtonChange {
+  border-color: rgba(233, 237, 245, 1);
+}
+.input3Head {
+  font-weight: bold;
+  padding: 5px;
+  padding-left: 3px;
+}
+.input3Content {
+  margin-top: 5px;
+  padding-left: 3px;
+  color: gray;
+}

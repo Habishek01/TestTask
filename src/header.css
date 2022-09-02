@@ -1,0 +1,48 @@
+.header1 {
+  display: inline-flex;
+  padding-top: 12%;
+  padding-bottom: 12%;
+}
+.header1 > img {
+  margin-top: 16px;
+  margin-right: 6px;
+}
+.pageNumbers {
+  display: flex;
+  width: 80%;
+  margin-left: 10%;
+  padding-bottom: 12%;
+}
+.number1 {
+  padding: 6px 12px;
+  border-radius: 50%;
+  border: 0.5px solid lightgray;
+  font-size: 15px;
+  background-color: #664de5;
+  color: white;
+}
+.enabled {
+  background-color: #664de5;
+  color: white;
+}
+.h-line2,
+.h-line3,
+.h-line4 {
+  width: 35px;
+  border: 0.1px solid rgb(144 152 157 / 18%);
+  height: 0px;
+  margin-top: 14px;
+}
+.h-line1 {
+  width: 35px;
+  border: 0.1px solid #664de5;
+  height: 0px;
+  margin-top: 14px;
+}
+
+.numbers {
+  padding: 6px 12px;
+  border-radius: 50%;
+  border: 0.3px solid rgb(179, 188, 194);
+  font-size: 12px;
+}
